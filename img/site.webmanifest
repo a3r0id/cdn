@@ -1,14 +1,14 @@
 {
-    "name": "Recon",
-    "short_name": "Recon",
+    "name": "Rec0n",
+    "short_name": "Rec0n",
     "icons": [
         {
-            "src": "/img/android-chrome-192x192.png",
+            "src": "https://raw.githubusercontent.com/hostinfodev/cdn/main/img/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/img/android-chrome-384x384.png",
+            "src": "https://raw.githubusercontent.com/hostinfodev/cdn/main/img/android-chrome-384x384.png",
             "sizes": "384x384",
             "type": "image/png"
         }
@@ -18,3 +18,4 @@
     "start_url": "https://recon.us.com/app/",
     "display": "standalone"
 }
+
